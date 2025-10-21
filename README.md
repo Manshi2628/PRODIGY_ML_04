@@ -14,12 +14,13 @@ The model is trained on the **LEAP Gesture Recognition dataset** and can predict
 * Develop a **CNN-based model** to recognize hand gestures.
 * Perform **Exploratory Data Analysis (EDA)** on the gesture dataset.
 * Evaluate the model using **accuracy, confusion matrix, and classification report**.
-* Enable real-time prediction of gestures from images.
+
 
 ---
 
 ## 📂 Dataset
 Dataset :-  https://www.kaggle.com/gti-upm/leapgestrecog
+
 The dataset used for this task is the **LEAP Gesture Recognition dataset**.
 
 **Features / Structure:**
